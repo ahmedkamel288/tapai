@@ -20,7 +20,7 @@ user agreement
 
 ملاحظة: بالتسجيل، فإنك توافق على الالتزام بجميع البنود أعلاه.
 
-
+_____________________________________________________________________________________________________________________________________________________________________________________________
 
 سياسة الاستخدام للمنشآت
 
@@ -41,3 +41,60 @@ user agreement
 إنهاء الحساب: تحتفظ الإدارة بالحق في إلغاء حساب أي منشأة تخالف الشروط دون إشعار مسبق.
 
 ملاحظة: بتسجيل المنشأة، فإنك توافق على الالتزام بجميع البنود أعلاه.
+
+
+
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+Tapai en:
+Terms of Service for Individuals
+
+By using the event organization service as an individual user, you agree to the following:
+
+Accuracy of Information: All information you provide during registration must be accurate and complete.
+
+Request Review: Management reserves the right to review your request to join any event before approval.
+
+Professional Conduct: You must execute the event professionally and respect scheduled appointments.
+
+Confidentiality: Sharing event information or establishment data with any third party is prohibited.
+
+Event Pricing: Users may not object to event prices set by management except through official communication channels.
+
+Application Rights: All rights and data are reserved for the application management; unauthorized use is prohibited.
+
+Account Termination: Your account may be terminated or suspended without prior notice if you violate these terms.
+
+By continuing with registration, you confirm your agreement to comply with these terms.
+
+
+___________________________________________________________________________________________________________________________________________________
+
+
+Terms of Service for Organizations
+
+By using the event organization service as an establishment, you agree to the following:
+
+Accurate Information: The establishment must provide correct information about the event (location, timing, nature of the event).
+
+Approval Rights: Management reserves the right to approve or reject any organization request without providing reasons.
+
+Event Costs: Costs are determined by management after reviewing the event requirements.
+
+Payments: Any required payment must be made before the event starts according to the agreed terms.
+
+Responsibility: Management is not responsible for any issues resulting from the establishment’s negligence.
+
+External Agreements: Negotiating or contracting with event organizers outside the application is not allowed.
+
+Account Termination: Management reserves the right to cancel any establishment account that violates the terms without prior notice.
+
+By continuing with establishment registration, you confirm your agreement to comply with these terms.
